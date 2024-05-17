@@ -27,7 +27,7 @@ header{
   top: 0;
   left: 0;
   right: 0;
-  background: #96ceb4;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -95,7 +95,7 @@ header .icon i:hover{
   flex-flow: column;
   position: relative;
   z-index: 0;
-background: #96ceb4;
+background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 }
 .home .content{
   text-align: center;
@@ -473,7 +473,7 @@ text-decoration: none;
 /* footer */
 footer{
   width: 100%;
-  background-color: #96ceb4;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
   margin-top: 40px;
 }
 
@@ -692,7 +692,7 @@ footer .main .about-info p{
         top: 100%;
         left: 0;
         right: 0;
-        background: #96ceb4;
+        background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
         border-top: .1rem solid rgba(255, 255, 255, .2);
         padding: 1rem 2rem;
         clip-path: polygon(0 0 , 100% 0 , 100% 0 , 0 0);
