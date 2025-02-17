@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>كل أعمالنا / ابو ملاك لجميع أنواع الدهانات والديكورات</title>
+  <!-- إضافة رابط Bootstrap 5 CSS -->
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- إضافة AOS CSS للمؤثرات -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <link href="assets/css/coustem.css" rel="stylesheet">
+
+  <style>
+
+.portfolio-item:hover .overlay-icons {
+  opacity: 1;  /* ظهور الأيقونات عند التمرير */
+  background-color:skyblue;
+  padding:10px;
+  align-self:center;
+}
+
+    .overlay-icons {
+      opacity: 0;  /* إخفاء الأيقونات بشكل افتراضي */
+      transition: opacity 0.3s ease;  /* تأثير ظهور الأيقونات */
+    }
+
+    .custom-img {
+      height: 300px !important;  /* التأكد من تطبيق التغيير */
+      object-fit: cover;
+    }
+
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg text-center px-4 fixed-top navbar-inverse" style="background-color:white;">
+    <div class="container">
+    <a class="navbar-brand" href="" id="logo_brand"></a>
+    <div class="dropdown m-2">
+    <button class="btn btn-light dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+    <i class="bi bi-globe"></i> <span id="language-name">English</span>
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+    <li><a class="dropdown-item" href="#" onclick="changeLanguage('en')"><i class="bi bi-globe"></i> English</a></li>
+    <li><a class="dropdown-item" href="#" onclick="changeLanguage('ar')"><i class="bi bi-globe"></i> العربية</a></li>
+    </ul>
+    </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ms-auto mb-2 mb-lg-0 text-start">
+    <li class="nav-item">
+    <a class="nav-link" href="index.html" id="home_n"></a>
+    </li>
+    <li class="nav-item">
+    <a class="nav-link" href="#Portfolio" id="portfilo_n"></a>
+    </li>      
+    </ul>
+    </div>
+    </div>
+    </nav>
+    <!--end navbar website-->
+    
+    
+    
+
+
+ <!-- قسم تصفية المشاريع -->
+<div class="text-center mb-4" style="padding-top:80px;">
+  <button id="btn-web" class="btn btn-warning btn-sm m-2 p-2"></button>
+  <button id="btn-graphics" class="btn btn-success btn-sm m-2 p-2"></button>
+  <button id="btn-all" class="btn btn-secondary btn-sm m-2 p-2"></button>
+</div>
+
+
+  <div class="section-header text-center mb-5 mt-7">
+    <h2 id="work_title"></h2>
+    <p id="work_info"></p>
+  </div>
+
+  <div class="row gy-4" id="portfolio-container">
+    <!-- سيتم إضافة الأعمال هنا بواسطة JavaScript -->
+  </div><!-- End Row -->
+
+  <!-- Modal لعرض الصورة بشكل أكبر -->
+<div class="modal fade" id="portfolioModal" tabindex="-1" aria-labelledby="portfolioModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="إغلاق"></button>
+      </div>
+      <div class="modal-body">
+         <!-- العنوان المنسق بشكل ضخم -->
+         <h3 class="mb-4 text-primary" id="p_desc"></h3>
+          <!-- عرض الوصف هنا -->
+          <p id="modalDescription" class="mt-3"></p>
+            <!-- زر Live Demo داخل الـ Modal -->
+        <div class="text-center m-3">
+          <a href="" id="liveDemoLink" target="_blank" class="btn btn-primary">Live Demo</a>
+        </div>
+        <img src="" alt="ابو ملاك لجميع انواع الدهانات والديكورات" id="modalImage" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- ======= Footer Section ======= -->
+  <footer class="bg-dark text-light text-center py-3 mt-3" style="position:relative;bottom:0;">
+    <div class="container">
+      <p class="mb-0">تصميم وتطوير 
+        <a href="https://wa.me/967779289621" class="text-light text-decoration-none fw-bold">م.فيصل العفريت</a>      </p>
+    </div>
+  </footer>
+  <!-- End Footer Section -->
+
+  <!-- إضافة مكتبة AOS JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <!-- إضافة مكتبة jQuery (اختياري) -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- إضافة Bootstrap 5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+    let content = {
+      en: {
+          home_n: "home",
+          portfilo_n: "All my work",
+          web_p: "Web projects",
+          graphics_p: "graphics projects",
+          all_p: "all projects",
+          work_title: "All My projects",
+          work_info: "this is All my projects",
+          p_desc: "project description"
+      },
+      ar: {
+          home_n: "الرئسية",
+          portfilo_n: "كل اعمالي",
+          web_p: "مشاريع ويب",
+          graphics_p: "مشاريع جرافيكس",
+          all_p: "كل المشاريع",
+          work_title: "كل اعمالي",
+          work_info: "استعرض جميع اعمالي السابقة",
+          p_desc: "وصف المشروع"
+      }
+    };
+  
+    let currentLanguage = 'ar'; // تعيين اللغة الافتراضية للعربية
+  
+    // دالة لتغيير اللغة
+    function changeLanguage(language) {
+      // تغيير النصوص حسب اللغة
+      document.getElementById("home_n").innerText = content[language].home_n;
+      document.getElementById("portfilo_n").innerText = content[language].portfilo_n;
+      document.getElementById("btn-web").innerText = content[language].web_p;
+      document.getElementById("btn-graphics").innerText = content[language].graphics_p;
+      document.getElementById("btn-all").innerText = content[language].all_p;
+      document.getElementById("work_title").innerText = content[language].work_title;
+      document.getElementById("work_info").innerText = content[language].work_info;
+      document.getElementById("p_desc").innerText = content[language].p_desc;
+  
+      // تحديث اللغة الحالية
+      currentLanguage = language;
+      console.log("اللغة الحالية هي: " + currentLanguage);
+  
+      // تغيير الاتجاه بناءً على اللغة
+      if (language === 'ar') {
+          document.body.style.direction = 'rtl';
+          document.getElementById("language-name").innerText = 'العربية';
+      } else {
+          document.body.style.direction = 'ltr';
+          document.getElementById("language-name").innerText = 'English';
+      }
+  
+      // إعادة تحميل الأعمال والخدمات بعد تغيير اللغة
+      loadAllProjects();
+    }
+  
+    // دالة لتحميل جميع المشاريع من ملف JSON
+    async function loadAllProjects() {
+      try {
+        const response = await fetch('projects.json');
+        const data = await response.json();
+        allProjects = data;  // حفظ جميع المشاريع في المتغير
+        displayProjects(allProjects);  // عرض جميع المشاريع عند تحميل الصفحة
+      } catch (error) {
+        console.error("خطأ في تحميل الأعمال:", error);
+      }
+    }
+  
+    // دالة لعرض المشاريع في الصفحة
+    function displayProjects(projects) {
+      const portfolioContainer = document.getElementById('portfolio-container');
+      portfolioContainer.innerHTML = '';  // إفراغ الحاوية قبل إضافة المشاريع الجديدة
+  
+      projects.forEach((item, index) => {
+        const portfolioItem = document.createElement('div');
+        portfolioItem.classList.add('col-lg-4', 'col-md-6');
+        portfolioItem.setAttribute('data-aos', 'fade-up');
+        portfolioItem.setAttribute('data-aos-delay', (index * 100).toString());
+  
+        // تحديد الوصف بناءً على اللغة
+        const description = currentLanguage === 'ar' ? item.des_ar : item.des_en;
+  
+        // إضافة HTML لتنسيق الصورة والأيقونات عند التمرير
+        portfolioItem.innerHTML = `
+          <div class="portfolio-item position-relative p-3">
+            <img src="${item.image}"  alt="تطوير وتصميم مواقع ويب فيصل العفريت افضل مصمم ومطور لمواقع الويب" class="img-fluid custom-img" data-bs-toggle="modal" data-bs-target="#portfolioModal" data-image="${item.image}" data-description="${description}" data-url="${item.url}">
+            
+            <div class="overlay-icons position-absolute top-50 start-50 translate-middle">
+              <a href="${item.url}" target="_blank" class="text-white fs-3">
+                <i class="bi bi-link-45deg"></i>  
+              </a>
+            </div>
+          </div>
+        `;
+        portfolioContainer.appendChild(portfolioItem);
+      });
+    }
+  // تحديث رابط Live Demo في الـ Modal عند فتحه
+$('#portfolioModal').on('show.bs.modal', function (event) {
+  var button = $(event.relatedTarget); // الزر الذي تم النقر عليه
+  var url = button.data('url'); // جلب الرابط
+  var description = button.data('description');
+  var image = button.data('image');
+
+  // تحديث البيانات في الـ Modal
+  $('#liveDemoLink').attr('href', url); // تحديث رابط Live Demo في الـ Modal
+});
+    // تصفية المشاريع حسب الفئة (ويب أو جرافيكس)
+    document.getElementById('btn-web').addEventListener('click', () => {
+      filteredProjects = allProjects.filter(project => project.category === 'web');  
+      displayProjects(filteredProjects);  
+    });
+  
+    document.getElementById('btn-graphics').addEventListener('click', () => {
+      filteredProjects = allProjects.filter(project => project.category === 'graphics');  
+      displayProjects(filteredProjects);  
+    });
+  
+    document.getElementById('btn-all').addEventListener('click', () => {
+      displayProjects(allProjects);  
+    });
+  
+    // فتح الـ Modal وعرض الصورة والوصف
+    document.addEventListener('click', function(event) {
+      if (event.target && event.target.dataset.image) {
+        const modalImage = document.getElementById('modalImage');
+        const modalDescription = document.getElementById('modalDescription');
+        
+        modalImage.src = event.target.dataset.image;
+        modalDescription.innerText = event.target.dataset.description;
+      }
+    });
+  
+    // تحميل المشاريع عند تحميل الصفحة
+    window.onload = function() {
+      changeLanguage('en');  // تغيير اللغة بناءً على لغة المتصفح أو اختيار يدوي
+      loadAllProjects();
+      AOS.init();  // تهيئة AOS
+    };
+  </script>
+  
+
+</body>
+</html>

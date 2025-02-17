@@ -1,0 +1,240 @@
+[
+   {
+      "image": "https://i.postimg.cc/wTQj247R/image.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/wTQj247R/image.jpg",
+      "url": "https://abwnwafcompany.github.io/AbwnwafCompany/",
+      "des_ar": "قمت بتطوير موقع إلكتروني ضخم ومتكامل لعميل متخصص في مجال الدهانات والديكورات، والذي يعمل على عرض كافة خدماته وأعماله بطريقة مبتكرة وديناميكية. يتميز الموقع بكونه منصة تعريفية شاملة، تتيح للزوار الاطلاع على جميع المعلومات المتعلقة بالعميل بشكل مرن وسهل التصفح. الموقع يعتمد على بنية ديناميكية يتم إدارتها من خلال تقنيات متطورة مثل JavaScript وPHP، حيث تم إنشاء ملفات JSON داخل مجلدات الموقع الجذرية، وهي تحتوي على معلومات مفصلة عن الخدمات التي يقدمها العميل، أعماله السابقة، بالإضافة إلى بيانات التواصل. هذه الملفات يمكن تعديلها بسهولة باستخدام لوحة تحكم مخصصة، مما يضمن تحديث البيانات بشكل سلس وسريع. عند بناء الموقع، تم تصميمه ليكون متوافقًا مع جميع الأجهزة والشاشات، بحيث يتم عرض المحتوى بصورة جذابة على الأجهزة المحمولة وأجهزة الكمبيوتر على حد سواء. كما تم استخدام GitHub Pages لاستضافة الموقع، وتم تطوير واجهته البرمجية باستخدام API للوصول إلى البيانات المخزنة في هذه الملفات. لقد قمت بتطوير لوحة تحكم مخصصة باستخدام PHP PDO التي تسمح للمسؤولين بفتح، إضافة، تعديل أو حذف البيانات المخزنة في ملفات JSON بشكل مباشر من داخل النظام. هذه الميزة توفر درجة عالية من المرونة في إدارة الموقع، مما يتيح للعميل التفاعل مع المحتوى وتحديثه بشكل فوري ودون الحاجة إلى إعادة برمجة الموقع بشكل كامل. كما يتميز الموقع بتصميم كلاسيكي حديث، حيث تم استخدام عناصر تصميم متطورة تجمع بين الأناقة والعملية. تم مراعاة تجربة المستخدم بشكل كبير، حيث يوفر الموقع واجهة مستخدم سهلة وواضحة تسمح بالتنقل السلس بين الأقسام المختلفة. بالإضافة إلى ذلك، عملت على تحسين محركات البحث (SEO) لضمان ظهور الموقع في نتائج البحث الأولى على جوجل. من خلال تطبيق تقنيات تحسين محركات البحث بشكل فعّال، أصبح الموقع الآن يظهر في النتائج الأولى على جوجل، مما يعزز من رؤية العميل على الإنترنت ويزيد من عدد الزوار للموقع. كل هذه الميزات جعلت الموقع أداة مثالية لعرض أعمال العميل وتعزيز التواصل مع الزوار.",
+      "des_en": "I developed a large and comprehensive website for a client specializing in the field of painting and decoration, designed to showcase all of his services and works in an innovative and dynamic manner. The website serves as a complete informational platform, allowing visitors to easily access and navigate through all of the client’s offerings. The site operates on a dynamic structure managed by advanced technologies such as JavaScript and PHP. JSON files are created within the root directories of the website, storing detailed information about the client’s services, past projects, and contact details. These files can be easily modified through a custom control panel, ensuring seamless and quick updates to the site content. When building the site, I ensured that it is responsive across all devices and screens, providing an attractive and functional display for both mobile and desktop users. The site was hosted on GitHub Pages, and I developed an API to allow for easy access to the data stored within these files. Furthermore, I created a custom control panel using PHP PDO, allowing administrators to view, add, modify, or delete data from the JSON files directly through the system. This feature offers a high level of flexibility in managing the website, allowing the client to interact with and update the content immediately without the need for full-site redevelopment. The website also boasts a sleek, modern classic design that blends elegance with functionality. The user experience was a top priority, resulting in an intuitive and clear interface that allows for smooth navigation between different sections. Additionally, I worked on SEO optimization to ensure that the website ranks in the top search results on Google. By implementing effective SEO techniques, the website now appears in the first search results on Google, enhancing the client's online visibility and increasing site traffic. All these features make the website an ideal tool for showcasing the client's work and enhancing communication with visitors.",
+      "type": "pest"
+    },
+   {
+      "image": "https://i.postimg.cc/ZKjPvcF4/image.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/ZKjPvcF4/image.jpg",
+      "url": "https://abumalaknew.github.io/AbumalakCompany/",
+      "des_ar": "قمت بتطوير موقع إلكتروني ضخم ومتكامل لعميل متخصص في مجال الدهانات والديكورات، والذي يعمل على عرض كافة خدماته وأعماله بطريقة مبتكرة وديناميكية. يتميز الموقع بكونه منصة تعريفية شاملة، تتيح للزوار الاطلاع على جميع المعلومات المتعلقة بالعميل بشكل مرن وسهل التصفح. الموقع يعتمد على بنية ديناميكية يتم إدارتها من خلال تقنيات متطورة مثل JavaScript وPHP، حيث تم إنشاء ملفات JSON داخل مجلدات الموقع الجذرية، وهي تحتوي على معلومات مفصلة عن الخدمات التي يقدمها العميل، أعماله السابقة، بالإضافة إلى بيانات التواصل. هذه الملفات يمكن تعديلها بسهولة باستخدام لوحة تحكم مخصصة، مما يضمن تحديث البيانات بشكل سلس وسريع. عند بناء الموقع، تم تصميمه ليكون متوافقًا مع جميع الأجهزة والشاشات، بحيث يتم عرض المحتوى بصورة جذابة على الأجهزة المحمولة وأجهزة الكمبيوتر على حد سواء. كما تم استخدام GitHub Pages لاستضافة الموقع، وتم تطوير واجهته البرمجية باستخدام API للوصول إلى البيانات المخزنة في هذه الملفات. لقد قمت بتطوير لوحة تحكم مخصصة باستخدام PHP PDO التي تسمح للمسؤولين بفتح، إضافة، تعديل أو حذف البيانات المخزنة في ملفات JSON بشكل مباشر من داخل النظام. هذه الميزة توفر درجة عالية من المرونة في إدارة الموقع، مما يتيح للعميل التفاعل مع المحتوى وتحديثه بشكل فوري ودون الحاجة إلى إعادة برمجة الموقع بشكل كامل. كما يتميز الموقع بتصميم كلاسيكي حديث، حيث تم استخدام عناصر تصميم متطورة تجمع بين الأناقة والعملية. تم مراعاة تجربة المستخدم بشكل كبير، حيث يوفر الموقع واجهة مستخدم سهلة وواضحة تسمح بالتنقل السلس بين الأقسام المختلفة. بالإضافة إلى ذلك، عملت على تحسين محركات البحث (SEO) لضمان ظهور الموقع في نتائج البحث الأولى على جوجل. من خلال تطبيق تقنيات تحسين محركات البحث بشكل فعّال، أصبح الموقع الآن يظهر في النتائج الأولى على جوجل، مما يعزز من رؤية العميل على الإنترنت ويزيد من عدد الزوار للموقع. كل هذه الميزات جعلت الموقع أداة مثالية لعرض أعمال العميل وتعزيز التواصل مع الزوار.",
+      "des_en": "I developed a large and comprehensive website for a client specializing in the field of painting and decoration, designed to showcase all of his services and works in an innovative and dynamic manner. The website serves as a complete informational platform, allowing visitors to easily access and navigate through all of the client’s offerings. The site operates on a dynamic structure managed by advanced technologies such as JavaScript and PHP. JSON files are created within the root directories of the website, storing detailed information about the client’s services, past projects, and contact details. These files can be easily modified through a custom control panel, ensuring seamless and quick updates to the site content. When building the site, I ensured that it is responsive across all devices and screens, providing an attractive and functional display for both mobile and desktop users. The site was hosted on GitHub Pages, and I developed an API to allow for easy access to the data stored within these files. Furthermore, I created a custom control panel using PHP PDO, allowing administrators to view, add, modify, or delete data from the JSON files directly through the system. This feature offers a high level of flexibility in managing the website, allowing the client to interact with and update the content immediately without the need for full-site redevelopment. The website also boasts a sleek, modern classic design that blends elegance with functionality. The user experience was a top priority, resulting in an intuitive and clear interface that allows for smooth navigation between different sections. Additionally, I worked on SEO optimization to ensure that the website ranks in the top search results on Google. By implementing effective SEO techniques, the website now appears in the first search results on Google, enhancing the client's online visibility and increasing site traffic. All these features make the website an ideal tool for showcasing the client's work and enhancing communication with visitors.",
+      "type": "pest"
+    },
+    {
+      "image": "https://i.postimg.cc/VNkywDfT/1739809049996.jpg",
+      "category": "web",
+      "link": "https://postimg.cc/gallery/tHRQwFk",
+      "url": "https://postimg.cc/gallery/tHRQwFk",
+      "des_ar": "لقد قمت بتطوير منصة متكاملة لإدارة أعمال التدريب، تجمع بين أحدث التقنيات لضمان تجربة مستخدم متميزة وفعّالة. يعتمد الموقع على PHP PDO مع MySQL لضمان الاتصال الآمن والسريع مع قاعدة البيانات، ويستخدم AJAX لتحميل البيانات بشكل ديناميكي دون الحاجة لتحديث الصفحة. إضافة إلى ذلك، استخدمت مكتبة jQuery لتحميل المحتوى إلى لوحة التحكم بشكل فوري عند الضغط على الأزرار، مما يعزز من سرعة التفاعل مع المستخدم. كما قمت بتوظيف JavaScript في الموقع لضمان أداء سلس، وتعامل مرن مع الأحداث مثل التفاعلات مع النماذج والواجهات، مما يساهم في تحسين تجربة المستخدم بشكل عام. تشمل المميزات الأخرى دعم استيراد وتصدير بيانات Excel بسهولة، واستخدام مكتبة DataTables لتمكين فلترة وتنظيم البيانات بسرعة، مع إشعارات تفاعلية عبر SweetAlert. هذا المشروع يعكس خبرتي في استخدام تقنيات متعددة مثل PHP وJavaScript وAJAX لتطوير تطبيقات ويب مرنة ومتطورة تلبي احتياجات الأعمال الحديثة.",
+      "des_en": "I developed a comprehensive platform for managing training operations, combining the latest technologies to ensure an exceptional and effective user experience. The site relies on PHP PDO with MySQL to ensure secure and fast connection with the database, and uses AJAX to load data dynamically without the need for page refresh. Additionally, I utilized the jQuery library to load content to the control panel instantly when buttons are clicked, enhancing the speed of user interaction. JavaScript was also employed to ensure smooth performance and flexible handling of events such as interactions with forms and interfaces, contributing to an overall improved user experience. Other features include support for easy import and export of Excel data, and the use of the DataTables library to enable quick data filtering and organization, along with interactive notifications via SweetAlert. This project reflects my expertise in using multiple technologies such as PHP, JavaScript, and AJAX to develop flexible and advanced web applications that meet the needs of modern businesses.",
+      "type": "pest"
+    },
+
+   {
+      "image": "https://i.postimg.cc/d3YMCnBq/1739802552836.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/d3YMCnBq/1739802552836.jpg",
+      "url": "https://afresite.github.io/afre-site/",
+      "des_ar": "تم تصميم الموقع التالي لشركة برمجية كموقع تعريفي. يتميز الموقع بالمرونة والبساطة وسهولة التصفح. تم استخدام أحدث التقنيات في تصميمه لضمان تجربة مستخدم سلسة وعصرية.",
+      "des_en": "This website was designed for a software company as an informational site. The website is characterized by its flexibility, simplicity, and ease of navigation. The latest technologies have been used in its design to ensure a smooth and modern user experience.",
+      "type": "pest"
+    },
+   {
+      "image": "https://i.postimg.cc/nrdR0kxb/1737405831614.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/nrdR0kxb/1737405831614.jpg",
+      "url": "https://engfaisal101.github.io/control_panel/",
+      "des_ar": "هذا الموقع هو الجزء الخاص بلوحة التحكم لموقع منصة المتدربين للمؤسسة العامة. من خلال لوحة التحكم هذه، يتمكن المدربون والمسؤولون الآخرون من مراجعة الطلبات الخاصة بالمتدربين وتحويلها بين المسؤولين حتى يتم الرد عليها بالشكل الصحيح. تمتاز لوحة التحكم هذه بالمرونة والسهولة في الاستخدام.",
+      "des_en": "This website is the control panel section of the Trainee Platform for the public institution. Through this control panel, trainers and other administrators can review trainee requests and transfer them between responsible parties until they are properly addressed. This control panel is characterized by its flexibility and ease of use.",
+      "type": "pest"
+    },
+   {
+      "image": "https://i.postimg.cc/mDy6F46r/1737405830471.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/mDy6F46r/1737405830471.jpg",
+      "url": "https://engfaisal101.github.io/Technical-Foundation-Project/",
+      "des_ar": "قمت بتطوير منصة متكاملة لإدارة أعمال المتدربين مع تخصيص صلاحيات متعددة لكل نوع من المستخدمين حسب احتياجاتهم. المنصة تضم ثلاثة أنواع من المستخدمين:\n\n1. مدير النظام: يتمتع بالصلاحية الكاملة على جميع أجزاء المنصة. يمكنه إدارة البيانات، الإشراف على سير العمل، إضافة أو تعديل الطلبات، وتخصيص الصلاحيات لبقية المستخدمين.\n\n2. رؤوساء آخرين: يمتلك صلاحية التعامل مع الطلبات الخاصة به أو يتم تحويلها إليه كجزء من عمله، كما يمكنه متابعة سير العمل الخاص به وإمكانية الموافقة أو الرفض وإصدار التقارير اللازمة.\n\n3. المتدرب: يمتلك صلاحيات محدودة تتيح له تقديم الطلبات، متابعة حالتها، والتفاعل مع الأقسام المختلفة بناءً على حالتها.\n\nتتميز المنصة أيضًا باستخدام أفضل اللغات الحديثة في جزء الـ back-end والتعامل مع قواعد البيانات والقيام بالعمليات اللازمة في النظام.\n\nأيضًا تتميز المنصة باستخدام أحدث التقنيات مثل JavaScript، AJAX، jQuery لضمان أداء سريع وسلس. كما تعتمد المنصة على JSON لتنظيم البيانات وإدارتها عبر API، مما يعزز من تفاعل النظام ويوفر تجربة مستخدم استثنائية.\n\nتتيح المنصة أيضًا إمكانية تصدير تقارير وملفات Excel بسهولة، مع دعم استيراد البيانات من ملفات أخرى. كما يمكن تصفية وتنظيم البيانات بمرونة باستخدام مكتبة DataTables.\n\nباستخدام هذه المنصة، يمكن للمستخدمين التفاعل بشكل مرن وآمن مع مختلف الوظائف، مما يجعلها أداة مثالية لإدارة أعمال المتدربين بكفاءة عالية. استعرض الواجهات الأخرى للموقع من خلال الرابط التالي https://postimg.cc/gallery/W0KHcJw",
+      "des_en": "I developed a comprehensive platform for managing trainee tasks with multiple permissions assigned to different types of users based on their needs. The platform includes three types of users:\n\n1. System Administrator: Has full access to all parts of the platform. They can manage data, oversee workflows, add or modify requests, and assign permissions to other users.\n\n2. Other Supervisors: They have the authority to handle their own requests or those assigned to them as part of their work. They can track the progress of their tasks, approve or reject requests, and generate necessary reports.\n\n3. Trainee: Has limited permissions allowing them to submit requests, track their status, and interact with different departments based on their status.\n\nThe platform also stands out by using the best modern languages for back-end development, handling databases, and performing necessary operations in the system.\n\nAdditionally, the platform uses the latest technologies such as JavaScript, AJAX, and jQuery to ensure fast, smooth performance. It relies on JSON for organizing and managing data via API, enhancing system interaction and providing an exceptional user experience.\n\nThe platform also allows easy export of reports and Excel files, with support for importing data from other files. It offers flexible filtering and organizing of data using the DataTables library.\n\nWith this platform, users can interact securely and flexibly with different functions, making it an ideal tool for efficiently managing trainee tasks. You can explore other interfaces of the site via this link: https://postimg.cc/gallery/W0KHcJw",
+      "type": "pest"
+    },
+    
+   {
+      "image": "https://i.postimg.cc/3J4Cs7CD/Altown-company.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/3J4Cs7CD/Altown-company.jpg",
+      "url": "https://engfaisal101.github.io/Altowan_Soft/",
+      "des_ar": "تم تصميم هذا الموقع لإحدى الشركات كموقع تعريفي خاص بها، والذي يمتاز بالمرونة والواجهة الرسومية والتصميم الكلاسيكي الحديث.",
+      "des_en": "This website was designed for a company as a dedicated profile site, which is characterized by flexibility, graphical interface, and modern classic design.",
+      "type": "pest"
+    },{
+      "image": "https://i.postimg.cc/90YrnZdc/image.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/90YrnZdc/image.jpg",
+      "url": "https://i.postimg.cc/90YrnZdc/image.jpg",
+      "des_ar": "موقع إلكتروني مبتكر متخصص في توفير الأثاث المنزلي بطريقة مخصصة لكل عميل. يتيح الموقع للمستخدمين إدخال تفاصيل دقيقة مثل الميزانية المتاحة، قياسات المساحة المخصصة للأثاث، والأسلوب أو الطراز المفضل لديهم. بناءً على هذه المدخلات، يعرض الموقع خيارات أثاث تتناسب تمامًا مع احتياجاتهم وميزانيتهم. يهدف الموقع إلى توفير تجربة شراء سهلة ومريحة، حيث يمكن للعملاء مقارنة الخيارات المتاحة، قراءة مراجعات المنتجات، ورؤية كيف يمكن للأثاث أن يتناسب مع المساحة المتاحة من خلال أدوات ثلاثية الأبعاد. الموقع يوفر للمستخدمين خيارات أثاث تتناسب مع ميزانيتهم ومساحة المكان المتاحة، ويسهم في تقليل الوقت والجهد اللازمين لاختيار الأثاث المناسب، كما يساعد في تحقيق أقصى استفادة من المساحات المتاحة بفضل القياسات الدقيقة.",
+      "des_en": "An innovative website specialized in providing customized furniture solutions for each client. The site allows users to input detailed information such as their available budget, the dimensions of the space designated for the furniture, and their preferred style or design. Based on these inputs, the site presents furniture options that perfectly match their needs and budget. The goal of the site is to provide an easy and convenient shopping experience, where customers can compare available options, read product reviews, and see how the furniture fits within their available space through 3D tools. The website provides users with furniture options that match their budget and available space, helps reduce the time and effort required to choose the right furniture, and aids in maximizing the use of available space thanks to precise measurements.",
+      "type": "pest"
+   },
+    {
+      "image": "https://i.postimg.cc/4NsH5g2g/lib.jpg",
+      "category": "web",
+      "link": "https://i.postimg.cc/4NsH5g2g/lib.jpg",
+      "url": "https://i.postimg.cc/4NsH5g2g/lib.jpg",
+      "des_ar": "هذا مشروع عبارة عن موقع ويب مكتبة الكترونية خاصة بالجامعات حيث يمكن للجامعة استخدام الموقع ورفع الكتب والمستلزمات الأخرى والمقررات الدراسية على الموقع. يمتاز الموقع بوجود التصنيفات والفلترة لكل قسم مايخص التخصصات التي تندرج تحته، وكل تخصص يحتوي على الكتب الخاصة به. يمكن للطالب تسجيل الدخول باستخدام الرقم الجامعي وكلمة المرور الخاصة به، ويمكنه استعراض كل الكتب والمقررات الخاصة بقسمه أو المسموح له بالاطلاع عليها، بالإضافة إلى إمكانية تحميل الكتب.",
+      "des_en": "This project is a website for an electronic library dedicated to universities, where the university can use the site to upload books, materials, and academic courses. The website features classifications and filters for each department, displaying relevant books and materials for each specialization. Students can log in using their university ID and password to access and browse books and courses related to their department or those they are authorized to view. They can also download the books available for their use.",
+      "type": "nopest"
+    },
+  {
+   "image": "https://i.postimg.cc/zXrGrFTS/1734464430874.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/zXrGrFTS/1734464430874.jpg",
+   "url": "https://engfaisal101.github.io/project_homes/index.html",
+   "des_ar": "تجربتي مع JavaScript API من خلال Firebase.\n\nتم تطوير الموقع باستخدام:\nHTML، CSS، bootstrap5، JavaScript API، Firebase، JSON، sweetalert.\nتم استخدام عمليات (CRUD) باستخدام JavaScript API.",
+   "des_en": "My experience with JavaScript API through Firebase.\n\nThe website was developed using:\nHTML, CSS, bootstrap5, JavaScript API, Firebase, JSON, sweetalert.\nCRUD operations were implemented using JavaScript API.",
+   "type": "pest"
+ },
+  {
+   "image": "https://i.postimg.cc/59FX1tT1/q.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/59FX1tT1/q.jpg",
+   "url": "https://i.postimg.cc/59FX1tT1/q.jpg",
+   "des_ar": "فكرة المشروع: عبارة عن موقع يساعد المستخدمين في إيجاد حلول للأسئلة التي ينشرونها على الموقع، وأيضًا يمكنهم الإجابة على أي سؤال يعرفون إجابته، مما يجعله مشابهًا لمنتديات مثل موقع Stack Overflow.\n\nالموقع يقدم خدمة رفع سؤالك واستعراض الإجابات التي تم تقديمها عليه، كما يمكن للمستخدمين استعراض أسئلة أخرى والإجابة عليها.\n\nالموقع متجاوب مع جميع الشاشات، ويتميز بالدقة في استخدام التصميم والبرمجة بحيث يكون سريعًا ومرنًا وسهل الاستخدام.",
+   "des_en": "Project Idea: This is a website that helps users find solutions to the questions they post, and also allows them to answer any questions they know the answer to, making it similar to forums like Stack Overflow.\n\nThe site offers a service to post your question and browse the answers provided to it, as well as browse other questions and answer them.\n\nThe site is responsive to all screens and stands out with its precision in design and programming, ensuring that it is fast, flexible, and user-friendly.",
+   "type": "nopest"
+ },
+  {
+   "image": "https://i.postimg.cc/sxMbhqFG/edu-free.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/sxMbhqFG/edu-free.jpg",
+   "url": "https://i.postimg.cc/sxMbhqFG/edu-free.jpg",
+   "des_ar": "اسم الموقع: موقع منصة تعليمية خاصة بالعميل الأخ عبدالرحمن.\n\nمهام الموقع: من مهام الموقع هو تقديم دروس خاصة بمادة الكيمياء، حيث يتم رفع الفيديو على موقع Vimeo أو على اليوتيوب بصلاحيات خاصة، ثم يتم أخذ الرابط الخاص بالدرس ورفع الفيديو على الموقع الإلكتروني الخاص بالعميل. بعد ذلك، يقوم المستخدم أو الطالب بالدخول إلى المنصة وإنشاء حساب خاص به ومن ثم تسجيل الدخول. بعد تسجيل الدخول، يطلب من المستخدم إدخال كود الصلاحية للوصول إلى الموقع وعرض الدورات الخاصة به.\n\nيتم إنشاء كود الصلاحية من لوحة التحكم الخاصة بالمسؤول، حيث يستطيع تحديد صلاحيات محدودة لكل كود بحيث يسمح للمستخدم بالوصول إلى دورة معينة أو أكثر، حسب الصلاحية الممنوحة له من المسؤول. يتم تحديد أيام معينة لاستخدام الكود، ويتم تسجيل خروج الطالب تلقائيًا من الموقع بعد انتهاء فترة الكود ولا يمكنه الدخول بعد ذلك. كما لا يمكن استخدام الكود نفسه على أكثر من جهاز واحد.\n\nمن خلال لوحة التحكم، يستطيع المسؤول إضافة الدورات وإضافة الدروس الخاصة بكل دورة. كل دورة تحتوي على أكثر من درس، والدرس الواحد لا ينتمي لأكثر من دورة. كما يمكنه إضافة صور للموقع أو اختبارات.\n\nالغرض من إنشائه: تم تطوير الموقع بناءً على طلب العميل الأخ عبدالرحمن مقابل مبلغ مادي، واكتساب خبرة ومهارة أثناء فترة العمل.\n\nفترة إنجاز المشروع: تم إنجاز المشروع خلال شهرين ونصف إلى ثلاثة أشهر، بتاريخ 14 أبريل 2023.\n\nاستمتعت في بناء الموقع وتطويره، حيث كنت في نهاية المرحلة الابتدائية لتعلم تطوير مواقع الويب. اكتسبت خبرة واسعة خلال فترة عمل المشروع، وتم تطوير المشروع عبر عدة مراحل، ابتداءً من مراحل التحليل والتصميم والبرمجة، وانتهاءً بمراحل الاختبار والتقييم.\n\nاللغات المستخدمة: HTML، CSS، w3.CSS، JavaScript، AJAX، PHP، MySQL، JSON.",
+   "des_en": "Site Name: Educational Platform for Client Mr. Abdulrahman.\n\nSite Functions: The purpose of the site is to offer lessons on chemistry. Videos are uploaded to Vimeo or YouTube with special permissions, and then the link to the lesson is added to the website. The user or student can create an account, log in, and then enter a code to access and view the courses.\n\nThe authorization code is generated from the admin control panel, where the admin can define specific permissions for each code, allowing users to access one or more courses based on the permissions granted by the admin. The admin can also set specific days for the code, and the student will be logged out automatically once the code expires and will not be able to use it again. Furthermore, the code can only be used on one device.\n\nThrough the control panel, the admin can add courses and lessons to each course. Each course contains multiple lessons, and no lesson belongs to more than one course. The admin can also add images to the site or add tests.\n\nPurpose of Creation: The site was developed at the request of the client Mr. Abdulrahman for a financial fee, providing me with experience and skills during the work period.\n\nProject Completion Duration: The project was completed within two and a half to three months, on April 14, 2023.\n\nI enjoyed building and developing the site, as I was at the final stages of learning web development. I gained extensive experience during the project, and the development went through various stages, including analysis, design, programming, and finally testing and evaluation.\n\nTechnologies Used: HTML, CSS, w3.CSS, JavaScript, AJAX, PHP, MySQL, JSON.",
+   "type": "nopest"
+ },
+  {
+   "image": "https://i.postimg.cc/d1mbFr2D/byte.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/d1mbFr2D/byte.jpg",
+   "url": "https://i.postimg.cc/d1mbFr2D/byte.jpg",
+   "des_ar": "فكرة المشروع: عبارة عن موقع يساعد الأشخاص في العثور على العقارات المتاحة للإيجار أو البيع، سواء كانت أرضًا أو منزلًا. النظام يتيح للمستخدم إنشاء حساب وتسجيل العقار الخاص به المعروض للإيجار أو البيع، ولا يمكن أن يظهر العقار في النظام إلا بعد موافقة المسؤول عليه.\n\nالنظام يقدم خدمة استعراض العقارات ورفع العقارات على الموقع. ومن ناحية أخرى، يمكن للمستخدم العادي البحث عن العقار الذي يرغب فيه، وعندما يعثر عليه في نتائج البحث، يمكنه التواصل مع المسؤول عن طريق رقم الواتس آب أو الاتصال أو إرسال رسالة نصية.",
+   "des_en": "Project Idea: This is a website that helps people find available properties for rent or sale, whether it's land or a house. The system allows users to register an account and upload their properties for rent or sale. However, the property cannot be displayed on the system until it is approved by the admin.\n\nThe system provides a service for browsing and uploading properties on the website. On the other hand, regular users who are looking for a specific property can search for it, and once they find it in the search results, they can contact the admin via WhatsApp, call, or send a text message.",
+   "type": "nopest"
+ },
+  {
+   "image": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "url": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "des_ar": "اسم الموقع: موقع chat.\n\nمهام الموقع: الدردشة الجماعية بين المستخدمين والتعارف بينهم البين.\n\nالغرض من إنشائه: تم تطوير الموقع بغرض طلب من استاذ مقرر برمجة مواقع الويب مشروع عملي للمقرر، وقد حصلت على الدرجة النهائية في المشروع.\n\nفترة إنجاز المشروع: تم إنجاز المشروع خلال 15 يوم إلى 20 يوم، بتاريخ 10/06/2023.\n\nاستمتعت في بناء الموقع وتطويره، حيث كنت في المرحلة الابتدائية لتعليم مجال تطوير مواقع الويب، وقد اكتسبت خبرة واسعة خلال فترة عمل المشروع. تم تطوير المشروع مروراً بعدة مراحل، ابتداء من مراحل التحليل والتصميم والبرمجة، وانتهاء بمراحل الاختبار والتقييم.\n\nاللغات المستخدمة: HTML, CSS, w3.CSS, JavaScript, AJAX, PHP, MySQL, JSON.",
+   "des_en": "Site Name: Chat Website.\n\nSite Functions: Group chatting between users and interaction among them.\n\nPurpose of Creation: The site was developed as part of a practical project requested by my web development course instructor. I received the highest grade for this project.\n\nProject Completion Duration: The project was completed in 15 to 20 days, on 10/06/2023.\n\nI enjoyed building and developing this site, especially as I was in the early stages of learning web development. I gained extensive experience during the project development period. The project was developed through several stages, starting with analysis, design, and programming, and ending with testing and evaluation stages.\n\nTechnologies Used: HTML, CSS, w3.CSS, JavaScript, AJAX, PHP, MySQL, JSON.",
+   "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "category": "web",
+   "link": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "url": "https://i.postimg.cc/XvFM2TXf/chat.jpg",
+   "des_ar": "اسم الموقع: موقع chat.\n\nمهام الموقع: الدردشة الجماعية بين المستخدمين والتعارف بينهم البين.\n\nالغرض من إنشائه: تم تطوير الموقع بغرض طلب من استاذ مقرر برمجة مواقع الويب مشروع عملي للمقرر، وقد حصلت على الدرجة النهائية في المشروع.\n\nفترة إنجاز المشروع: تم إنجاز المشروع خلال 15 يوم إلى 20 يوم، بتاريخ 10/06/2023.\n\nاستمتعت في بناء الموقع وتطويره، حيث كنت في المرحلة الابتدائية لتعليم مجال تطوير مواقع الويب، وقد اكتسبت خبرة واسعة خلال فترة عمل المشروع. تم تطوير المشروع مروراً بعدة مراحل، ابتداء من مراحل التحليل والتصميم والبرمجة، وانتهاء بمراحل الاختبار والتقييم.\n\nاللغات المستخدمة: HTML, CSS, w3.CSS, JavaScript, AJAX, PHP, MySQL, JSON.",
+   "des_en": "Site Name: Chat Website.\n\nSite Functions: Group chatting between users and interaction among them.\n\nPurpose of Creation: The site was developed as part of a practical project requested by my web development course instructor. I received the highest grade for this project.\n\nProject Completion Duration: The project was completed in 15 to 20 days, on 10/06/2023.\n\nI enjoyed building and developing this site, especially as I was in the early stages of learning web development. I gained extensive experience during the project development period. The project was developed through several stages, starting with analysis, design, and programming, and ending with testing and evaluation stages.\n\nTechnologies Used: HTML, CSS, w3.CSS, JavaScript, AJAX, PHP, MySQL, JSON.",
+   "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/3wLMnR4z/d-c1.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/jS4Ynvsx/d-c1-1.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/zB3sMrTv/d-c3.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/ZqYt83Rr/d-c4.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/44HCQXJF/d-c6.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/XqCTjkH0/d-c7.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/76cFrWNV/d-c8.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/44DD8jy4/d-c9.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/SxrHxsrj/d-eight.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/VLX3240q/d-nine.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/nhZ6x7q6/d-one.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/SK15cvHh/d-seven.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/g02QXWSs/d-six.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ },
+ {
+   "image": "https://i.postimg.cc/cHKzhcN8/d-ten.jpg",
+   "category":"graphics",
+   "link": "https://postimg.cc/gallery/HX6D2Jg",
+   "url": "https://postimg.cc/gallery/HX6D2Jg",
+    "type": "nopest"
+ } 
+]
+
+
+
+
